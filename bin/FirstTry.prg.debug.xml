@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="D:\developpement\garmin\FirstTry\manifest.xml"/>
+<pcToLineNum>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="1" lineNum="7" parent="globals/FirstTryApp" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="1" lineNum="8" parent="globals/FirstTryApp" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="2" lineNum="12" parent="globals/FirstTryApp" pc="268435479" symbol="onStart"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="3" lineNum="16" parent="globals/FirstTryApp" pc="268435484" symbol="onStop"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="4" lineNum="20" parent="globals/FirstTryApp" pc="268435489" symbol="getInitialView"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="4" lineNum="21" parent="globals/FirstTryApp" pc="268435493" symbol="getInitialView"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="5" lineNum="5" parent="globals/FirstTryApp" pc="268436228" symbol="&lt;init&gt;"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="5" lineNum="5" parent="globals/FirstTryApp" pc="268436228" symbol="&lt;init&gt;"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="6" lineNum="26" parent="globals" pc="268435531" symbol="getApp"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryApp.mc" id="6" lineNum="27" parent="globals" pc="268435543" symbol="getApp"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="8" lineNum="86" parent="globals/FirstTryView" pc="268435560" symbol="onLayout"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="8" lineNum="87" parent="globals/FirstTryView" pc="268435564" symbol="onLayout"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="9" lineNum="90" parent="globals/FirstTryView" pc="268435602" symbol="initialize"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="9" lineNum="91" parent="globals/FirstTryView" pc="268435606" symbol="initialize"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="9" lineNum="92" parent="globals/FirstTryView" pc="268435624" symbol="initialize"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="103" parent="globals/FirstTryView" pc="268435719" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="105" parent="globals/FirstTryView" pc="268435723" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="108" parent="globals/FirstTryView" pc="268435743" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="109" parent="globals/FirstTryView" pc="268435762" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="110" parent="globals/FirstTryView" pc="268435786" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="111" parent="globals/FirstTryView" pc="268435810" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="112" parent="globals/FirstTryView" pc="268435834" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="114" parent="globals/FirstTryView" pc="268435858" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="10" lineNum="117" parent="globals/FirstTryView" pc="268435875" symbol="onUpdate"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="11" lineNum="82" parent="globals/FirstTryView" pc="268436209" symbol="&lt;init&gt;"/>
+<entry filename="D:\\developpement\\garmin\\FirstTry\\source\\FirstTryView.mc" id="11" lineNum="82" parent="globals/FirstTryView" pc="268436209" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="13" lineNum="2" parent="globals/Rez/Drawables" pc="268436203" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="14" lineNum="9" parent="globals/Rez/Fonts" pc="268436205" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="15" lineNum="11" parent="globals/Rez/JsonData" pc="268436207" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268435896" symbol="WatchFace"/>
+<entry filename="Rez" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268435908" symbol="WatchFace"/>
+<entry filename="Rez" id="16" lineNum="23" parent="globals/Rez/Layouts" pc="268435987" symbol="WatchFace"/>
+<entry filename="Rez" id="16" lineNum="25" parent="globals/Rez/Layouts" pc="268436150" symbol="WatchFace"/>
+<entry filename="Rez" id="17" lineNum="13" parent="globals/Rez/Layouts" pc="268436206" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="18" lineNum="30" parent="globals/Rez/Menus" pc="268436204" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="19" lineNum="32" parent="globals/Rez/Strings" pc="268436208" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="1" parent="globals/Rez" pc="268436179" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="1" parent="globals/Rez" pc="268436179" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="13" symbol="myBitmap"/>
+<entry id="9" object="true" symbol="FirstTryApp"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="10" object="true" symbol="FirstTryView"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="14" symbol="id_background"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8390146" module="true" symbol="Background"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+<entry arg="true" endPc="268435601" name="dc" stackId="1" startPc="268435560"/>
+<entry endPc="268435894" name="view" stackId="6" startPc="268435723"/>
+<entry endPc="268435894" name="hour" stackId="3" startPc="268435723"/>
+<entry endPc="268435894" name="second" stackId="5" startPc="268435723"/>
+<entry endPc="268435894" name="clockTime" stackId="2" startPc="268435723"/>
+<entry endPc="268435894" name="minute" stackId="4" startPc="268435723"/>
+<entry arg="true" endPc="268435895" name="dc" stackId="1" startPc="268435719"/>
+<entry endPc="268436176" name="rez_cmp_local_bitmap_id_background" stackId="2" startPc="268435908"/>
+<entry endPc="268436176" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268435908"/>
+<entry arg="true" endPc="268436177" name="dc" stackId="1" startPc="268435896"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="myBitmap"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_background"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="300" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="331" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="362" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="401" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="432" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/FirstTryView" offset="471" parentId="globals" symbolId="FirstTryView" type="class"/>
+<dataEntry label="globals/FirstTryApp" offset="542" parentId="globals" symbolId="FirstTryApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="FirstTryApp" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435483" name="onStart" parent="FirstTryApp" startPc="268435479">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435488" name="onStop" parent="FirstTryApp" startPc="268435484">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="FirstTryApp" startPc="268435489">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436246" name="&lt;init&gt;" parent="FirstTryApp" startPc="268436228">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435559" name="getApp" startPc="268435531">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435601" name="onLayout" parent="FirstTryView" startPc="268435560">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435718" name="initialize" parent="FirstTryView" startPc="268435602">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435895" name="onUpdate" parent="FirstTryView" startPc="268435719">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436227" name="&lt;init&gt;" parent="FirstTryView" startPc="268436209">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436203" name="&lt;init&gt;" parent="Drawables" startPc="268436203">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436205" name="&lt;init&gt;" parent="Fonts" startPc="268436205">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436207" name="&lt;init&gt;" parent="JsonData" startPc="268436207">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436177" name="WatchFace" parent="Layouts" startPc="268435896">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436206" name="&lt;init&gt;" parent="Layouts" startPc="268436206">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436204" name="&lt;init&gt;" parent="Menus" startPc="268436204">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436208" name="&lt;init&gt;" parent="Strings" startPc="268436208">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436202" name="&lt;init&gt;" parent="Rez" startPc="268436179">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
